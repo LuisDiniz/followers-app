@@ -2,3 +2,18 @@
 .media { 
     margin-bottom: 30px;
 }
+ 
+img {
+    border-radius: 100%;
+    max-width: 100px;
+    max-height: 100px;
+    float: left;
+}
+
+a {
+    margin-left: 15px;
+}
+
+/* div {
+    padding-top: 15px;
+} */
